@@ -1,0 +1,1 @@
+This project is for The A Team's login project for IST 311's class project
